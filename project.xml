@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="hxGTIN" package="jp.seibe.hxgtin" version="1.0.0" company="Seibe TAKAHASHI" />
+	<app main="Main" path="demo_bin" file="hxGTIN_demo" />
+	<window width="640" height="240" />
+	<source path="demo" />
+	<source path="src" />
+	<haxelib name="openfl" />
+</project>
